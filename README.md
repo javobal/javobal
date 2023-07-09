@@ -7,8 +7,6 @@ Fullstack developer
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [javobal.xyz](http://javobal.xyz)
 * ✉️  You can contact me at [javier.balam@gmail.com](mailto:javier.balam@gmail.com)
-* 🚀  I'm currently working on [NFT Test](http://nft.javobal.xyz)
-* 🧠  I'm learning Kubernetes, Alchemy
 
 ### Skills
 
